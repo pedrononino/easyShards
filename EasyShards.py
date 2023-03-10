@@ -1,4 +1,6 @@
 
+###YOU HAVE TO PIP INSTALL THE FOLLOWING
+#pip install fakeyou playsound os re
 
 import fakeyou #fakeYou lib
 from playsound import playsound
